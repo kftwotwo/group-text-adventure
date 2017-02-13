@@ -12,13 +12,13 @@ This is a text adventure with a few twists to the game. You type commands and mo
 
 Go to github and clone the repository `https://github.com/bbryantwang1/group-text-adventure.git`.  Once the repository is cloned:
 ```
-$ git clone https://github.com/bryantwang1/group-text-adventure.git
+$ git clone https://github.com/kftwotwo/group-text-adventure.git
 $ cd group-text-adventure
 ```
 
 ## Known Bugs
 
-If you do notice any bugs or an idea for this page you can go here https://github.com/bryantwang1/group-text-adventure/issues and fill out a new issue.
+If you do notice any bugs or an idea for this project you can click [here](https://github.com/kftwotwo/group-text-adventure/issues) and fill out a new issue.
 
 ## Support and contact details
 
@@ -32,10 +32,7 @@ Josh Rinard: jrinard@hotmail.com
 
 ## Contribute
 
-Issue Tracker: https://github.com/bryantwang1/group-text-adventure/issues
-
-Source Code: https://github.com/bryantwang1/group-text-adventure
-
+If you wish to contribute clone the project then create a new branch `my-new-feature` after that create a pull request [here](https://github.com/kftwotwo/group-text-adventure/pulls)
 
 ##  Technologies Used
 
